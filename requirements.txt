@@ -1,0 +1,6 @@
+langgraph
+fastapi
+uvicorn
+pytest
+httpx
+# optional real LLM: anthropic
